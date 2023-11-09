@@ -10,7 +10,7 @@ import os
 ocr_model = PaddleOCR(lang='en')
 
 # image path
-IMAGE_PATH = r"/images/Khumo.JPG"
+IMAGE_PATH =r"" # add path to id picture
 # function to extract ocr from image
 
 
