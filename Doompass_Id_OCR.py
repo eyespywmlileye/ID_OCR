@@ -14,7 +14,7 @@ import os
 ocr_model = PaddleOCR(lang = 'en')
 
 #image path 
-IMAGE_PATH = r"/content/Busi-cropped.jpeg"
+IMAGE_PATH = r"" # add path to id picture
 
 #function to extract ocr from image 
 def test_ocr(file): 
